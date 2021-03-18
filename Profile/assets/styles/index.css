@@ -515,19 +515,19 @@ a.btn:active {
 }
 
 .skills-box .html {
-  width: 55%;
-}
-
-.skills-box .css {
-  width: 75%;
-}
-
-.skills-box .javascript {
   width: 65%;
 }
 
-.skills-box .nodejs {
-  width: 80%;
+.skills-box .css {
+  width: 55%;
+}
+
+.skills-box .javascript {
+  width: 50%;
+}
+
+.skills-box .python {
+  width: 70%;
 }
 
 .skills-box .MySQL {
